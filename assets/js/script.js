@@ -57,6 +57,7 @@ Vue.filter('truncate', function(value) {
     }
 });
 
+
 /*-----------------
    Initialize app 
 -----------------*/
